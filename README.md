@@ -5,4 +5,6 @@ Developing Development Environment for Personal Use
 - Text Editors
   - nvim
     - _Insert text here_
+- Shell
+  - oh-my-zsh
 

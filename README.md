@@ -1,5 +1,5 @@
 # dev-env
-A single source of configuring development environment for a specific programming languages and frameworks
+Single source of knowledge of configuring development environment for a specific programming languages and frameworks
 
 ## Why?
 On the way to my Software Development journey, I feel that I am not and I do not want to get too much comfortable with any specific programming language (at least at the time of writing this).

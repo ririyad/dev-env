@@ -9,3 +9,15 @@ to pay for it. I have always a 'fantasy' of working on a large scale systems sin
 programming languages. I want to be proficient in multiple programming languages. And I would like to have a guideline on my own when I set up developmnent environment to work with a new programming 
 language, which is the inspiration of this repo so that when I need to jump on a specific language after a while, or change my dev-machine, I can install/reinstall staffs to set up programming environment
 quickly.
+
+### Contents
+---
+- [Lisp](#lisp)
+- [Python](#python)
+- [Go](#go)
+
+### Lisp
+- Install and Run On Mac (with Homebrew)
+    - From terminal, run `brew install sbcl`
+    - Open VS Code, the filename should be `.lisp` extension
+    - Sample program: `(print "Hello, Lisp!")`, from terminal run `sbcl --script hello.lisp`
